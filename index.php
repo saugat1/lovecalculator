@@ -32,6 +32,8 @@
 				</div>
 	</div>
 </form>
+	<?php
+	?>
 <script src="jquery.js" charset="utf-8"></script>
 <script src="script.js" charset="utf-8"></script>
 </body>
